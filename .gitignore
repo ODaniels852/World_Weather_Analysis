@@ -5,6 +5,10 @@ config.py
 API_practice.ipynb
 random_practice.ipynb
 Google_Nearby_Search.ipynb
+Challenge_test.ipynb
+VacationPy.ipynb
+WeatherPy.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
